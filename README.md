@@ -15,7 +15,7 @@
 
 ## :bookmark: Sobre
 
-Projeto de clone simples da Landing-page do Instagram, a qual tem como objetivo servir como projeto de aprendizado e aperfeiçoamento do uso do flexbox em CSS, através do curso "Recriando a página inicial do Instagram", no bootcamp "everis FullStack Developer" na [Digital Innovation One](https://web.digitalinnovation.one/), ministrado pela [Gabriela Pinheiro](https://github.com/SpruceGabriela).
+Projeto de clone simples da Landing-page do Instagram, a qual tem como objetivo servir como forma de aprendizado e aperfeiçoamento do uso do flexbox em CSS, através do curso "Recriando a página inicial do Instagram", no bootcamp "everis FullStack Developer" na [Digital Innovation One](https://web.digitalinnovation.one/), ministrado pela [Gabriela Pinheiro](https://github.com/SpruceGabriela).
 
 ## :rocket: Tecnologias
 
