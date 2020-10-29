@@ -47,7 +47,7 @@ Projeto de clone simples da Home-page do Instagram, a qual tem como objetivo ser
 
 ## :bookmark: About
 
-Simple Home-page Instagram clone project, as a way of learning and improving the use of flexbox in CSS, through the course "Recreating the Instagram homepage", in the bootcamp "everis FullStack Developer" at [Digital Innovation One] (https://web.digitalinnovation.one/), taught by [Gabriela Pinheiro] (https://github.com/SpruceGabriela).
+Simple Home-page Instagram clone project, as a way of learning and improving the use of flexbox in CSS, through the course "Recreating the Instagram homepage", in the bootcamp "everis FullStack Developer" at [Digital Innovation One](https://web.digitalinnovation.one/), taught by [Gabriela Pinheiro](https://github.com/SpruceGabriela).
 
 ## :rocket: Stack
 
